@@ -10,11 +10,11 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <br/>  
 
 
+## Redes Sociales:
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Xavier2092)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/richardcarrillodev/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://xavier2092.github.io/cvNew/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Xavier2092)  ···  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/richardcarrillodev/)  ···  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://xavier2092.github.io/cvNew/)
 
-
-## My Skill Set  
+## Habilidades
 <table><tr><td valign="top" width="33%">
 
 
@@ -64,7 +64,7 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <br/>
 
 
-## Github Stats  
+## Estadísticas de GitHub
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xavier2092&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
