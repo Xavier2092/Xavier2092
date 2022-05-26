@@ -11,7 +11,7 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 
 
 ## Redes Sociales:
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' target='_blank'>](https://github.com/Xavier2092) GitHub    
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'](https://github.com/Xavier2092) GitHub    
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/richardcarrillodev/) LinkedIn    
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://xavier2092.github.io/cvNew/) Portfolio
 
