@@ -16,7 +16,7 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://xavier2092.github.io/cvNew/) Portfolio
 
 
-## Habilidades
+## Habilidades:
 <table><tr><td valign="top" width="33%">
 
 
@@ -66,7 +66,7 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <br/>
 
 
-## Estadísticas de GitHub
+## Estadísticas de GitHub:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xavier2092&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
