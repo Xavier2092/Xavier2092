@@ -9,9 +9,9 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <br/>  
 
 ## Redes Sociales:
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' name='GitHub' placeholder='GitHub'>](https://github.com/Xavier2092) GitHub    
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/richardcarrillodev/) LinkedIn    
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://xavier2092.github.io/cvNew/) Portfolio
+   <a href="https://github.com/Xavier2092">Github</a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' name='GitHub' placeholder='GitHub'>](https://github.com/Xavier2092)    
+   LinkedIn  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/richardcarrillodev/)   
+   Portfolio [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://xavier2092.github.io/cvNew/) 
 
 ## Habilidades:
 <table><tr><td valign="top" width="33%">
