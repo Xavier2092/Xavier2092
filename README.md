@@ -1,5 +1,5 @@
 ### Hola👋!  Mi nombre es Richard Xavier Carrillo Moreno
-#### [QA Analyst][Full Stack Developer](https://xavier2092.github.io/cvNew/)
+#### QA Analyst | Full Stack Developer
 
 Soy un apasionado profesional del área de informática con experiencia en el desarrollo web full stack y calidad de software como analista QA
 Escribo código por diversión, compromiso, reto personal y desafío :D
