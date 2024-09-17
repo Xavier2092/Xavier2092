@@ -9,9 +9,9 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <br/>  
 
 ## Redes Sociales:
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' name='GitHub' placeholder='GitHub'>](https://github.com/Xavier2092/)<a href="https://github.com/Xavier2092">Github</a>    
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' target="_blank">](https://www.linkedin.com/in/richardcarrillodev/)<a href="[https://github.com/Xavier2092](https://www.linkedin.com/in/richardcarrillodev/)">LinkedIn</a>  
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://xavier2092.github.io/cvNew/)<a href="[https://github.com/Xavier2092](https://xavier2092.github.io/cvNew/)">Portfolio</a>   
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' name='GitHub' placeholder='GitHub'>](https://github.com/Xavier2092/)<a href="https://github.com/Xavier2092" target="_blank">Github</a>    
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/richardcarrillodev/)<a href="https://www.linkedin.com/in/richardcarrillodev/" target="_blank">LinkedIn</a>  
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://xavier2092.github.io/cvNew/)<a href="https://xavier2092.github.io/cvNew/" target="_blank">Portfolio</a>   
 
 ## Habilidades:
 <table><tr><td valign="top" width="33%">
