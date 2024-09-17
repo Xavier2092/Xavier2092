@@ -56,6 +56,10 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/selenium.svg" alt="Selenium" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/azuredevops.svg" alt="Azure DevOps" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg" alt="SQL Server" height="50" />
+
 </div>
 
 </td></tr></table>  
