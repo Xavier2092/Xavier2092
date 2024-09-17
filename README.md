@@ -1,20 +1,17 @@
 ### Hola👋!  Mi nombre es Richard Xavier Carrillo Moreno
-#### [Full Stack Developer](https://xavier2092.github.io/cvNew/)
+#### [QA Analyst][Full Stack Developer](https://xavier2092.github.io/cvNew/)
 
+Soy un apasionado profesional del área de informática con experiencia en el desarrollo web full stack y calidad de software como analista QA
 Escribo código por diversión, compromiso, reto personal y desafío :D
 
-- 🔭  Actualmente estoy trabajando en: https://cindie-front.vercel.app/ 
-- 🌱 Actualmente estoy aprendiendo en: https://www.soyhenry.com/ 
 - 📫 Cómo contactarme: https://www.linkedin.com/in/richardcarrillodev/
 
 <br/>  
-
 
 ## Redes Sociales:
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Xavier2092) GitHub    
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/richardcarrillodev/) LinkedIn    
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://xavier2092.github.io/cvNew/) Portfolio
-
 
 ## Habilidades:
 <table><tr><td valign="top" width="33%">
