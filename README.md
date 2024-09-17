@@ -24,6 +24,8 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg" alt="SQL Server" height="50" />
 </div>
 
+</td><td valign="top" width="25%">
+
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -36,7 +38,7 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -52,7 +54,7 @@ Escribo código por diversión, compromiso, reto personal y desafío :D
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
